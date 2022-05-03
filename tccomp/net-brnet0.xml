@@ -1,0 +1,10 @@
+<network>
+    <name>brnet0</name>
+    <bridge name='brnet0'/>
+    <forward/>
+    <ip address='10.90.0.1' netmask='255.255.255.0'>
+        <dhcp>
+            <range start='10.90.0.100' end='10.90.0.199'/>
+        </dhcp>
+    </ip>
+</network>

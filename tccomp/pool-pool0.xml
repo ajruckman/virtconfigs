@@ -1,0 +1,6 @@
+<pool type="dir">
+    <name>pool0</name>
+    <target>
+        <path>/vdata0/pool0/</path>
+    </target>
+</pool>

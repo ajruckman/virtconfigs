@@ -1,0 +1,8 @@
+<network>
+    <name>privnet0</name>
+    <ip address='10.90.1.1' netmask='255.255.255.0'>
+        <dhcp>
+            <range start='10.90.1.100' end='10.90.1.199'/>
+        </dhcp>
+    </ip>
+</network>
